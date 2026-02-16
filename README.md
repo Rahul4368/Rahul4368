@@ -14,7 +14,7 @@
 ---
 
 📧 **[rahulkumarrahul2002a@gmail.com](mailto:rahulkumarrahul2002a@gmail.com)**  
-🔗 [LinkedIn](https://www.linkedin.com/in/rahul-kumar-54204b25a) • [GitHub](https://github.com/Rahul4368)
+🔗 [LinkedIn](https://www.linkedin.com/in/rahul4368) • [GitHub](https://github.com/Rahul4368)
 
 ---
 
@@ -33,7 +33,7 @@ I love exploring **Deep Learning, LLMs, and data-driven decision-making**, blend
 `Python` • `SQL` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `TensorFlow` • `Keras` • `OpenCV`
 
 🧩 **Core Expertise**  
-Machine Learning • Deep Learning • Data Cleaning • EDA • Visualization • NLP • Computer Vision • REST APIs • Model Deployment (Flask)
+Machine Learning • Deep Learning • Data Cleaning • EDA • Visualization • NLP • Computer Vision • FAST APIs • Model Deployment (Flask)
 
 🧱 **Additional Skills**  
 OOPs • Operating Systems • Computer Networks • Data Manipulation • Metrics Analysis  
@@ -50,21 +50,26 @@ OOPs • Operating Systems • Computer Networks • Data Manipulation • Metri
 ### 🤖 Agentic AI Project — *IBM SkillsBuild (Apr 2025 – Jul 2025)*  
 - Developed **AI agents** integrating **LLMs** and automation workflows.  
 - Collaborated with IBM mentors on real-world AI tasks.  
-- Focused on **prompt engineering** and **autonomous reasoning**.  
+- Focused on **prompt engineering** and **autonomous reasoning**.
+
+### 🤖 AI Intern — *Omdena Local Chapter(Oct 2025 – Dec 2025)*  
+- Developed **AI agents** integrating **LLMs** and automation workflows.  
+- Collaborated with Omdena Local chapter on real-world AI tasks.  
+- Focused on **AI engineering** and **N8N**.
 
 ---
 
 ## 🧩 Featured Projects  
 
-### 🧠 American Sign Language (ASL) Recognition using CNN  
-📸 Built a CNN using TensorFlow & Keras to recognize ASL gestures with **98% accuracy**.  
-🎯 Used **OpenCV** for preprocessing and **confusion matrix** for performance evaluation.  
+### 🧠 FastAPI-Based RESTful Backend Application with PostgreSQL (02/2024 - 02/2024)
+Developed a RESTful backend application using FastAPI integrated with PostgreSQL database to perform complete CRUD (Create, Read, Update, Delete) operations. The application uses SQLAlchemy ORM for database
+interaction and Pydantic models for data validation and serialization. Implemented modular project structure with proper separation of concerns including databaseion.  
 
-### 🎙️ Face and Voice Detection System  
-🔐 Dual-mode biometric authentication using **ML models** for face & voice recognition.  
+### 🎙️ Enterprise-Scale Multimodal RAG Search Engine (01/2025 - 03/2025)
+"Developed a multimodal RAG-based enterprise search system using LLMs, vision models, and vector databases to search across text, images, PDFs, and audio transcripts. Implemented chunking, cross-modal embeddings, and retrieval workflows. Deployed scalable APIs.   
 
-### ✈️ Airline Reservation System with AI Features  
-💡 Developed a full-stack intelligent system with **AI fare prediction**, **secure payments**, and **admin dashboards**.  
+### ✈️ Multi-Agent Recommendation & Decision System (09/2025 - 11/2025)
+"Built a multi-agent LLM system for recommendations and decision support. It combines recommendation algorithms, vector memory, rules, and autonomous agents. Added task coordination, tool use, RAG retrieval, and feedback learning. Deployed it as a production-ready API on AWS/GCP with monitoring, autoscaling, and model versioning."   
 
 ---
 
