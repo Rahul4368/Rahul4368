@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm <span style="color:#00FFFF;">**Rahul Kumar**</span>  
 
-🎯 *Data Scientist | AI/ML Engineer | Deep Learning Enthusiast*  
+🎯 *Data Scientist | AI/ML Engineer | Deep Learning Enthusiast*  / Software Engineer
 
 ---
 
