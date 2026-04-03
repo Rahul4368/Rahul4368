@@ -8,7 +8,7 @@
 
 <!-- 🌟 Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=🎯+Data+Scientist;🤖+AI/ML+Engineer;🧠+Deep+Learning+Enthusiast;📍+Noida,+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=🎯+Data+Scientist;🤖+AI/ML+Engineer;🧠+Deep+Learning+Enthusiast;+Software+Engineer;📍+Noida,+India" alt="Typing SVG" />
 </p>
 
 ---
